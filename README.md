@@ -1,10 +1,10 @@
-<h1 align = "center">✨ Welcome ✨</h1>
+<h1 align = "center">✨ <i>Welcome</i> ✨</h1>
 
 ## Um pouco sobre mim! 💫
 
 Meu nome é Ian Felipe, tenho 18 anos, tenho paixão por games e curto desenhar 🎨
 
-Atualmente no 1º período de Ciência da Computação na Cesar School
+Atualmente no 1º período de Ciência da Computação na **Cesar School**
 
 ## Quais meus conhecimentos? 💾
 
