@@ -1,4 +1,4 @@
-# ✨ Welcome ✨
+<h1 align = "center">✨ Welcome ✨</h1>
 
 ## Um pouco sobre mim! 💫
 
@@ -17,22 +17,15 @@ Atualmente no 1º período de Ciência da Computação na Cesar School
 
 Tenho interesses nas áreas de desenvolvimento de games, de softwares e também em front-end
 
-## Onde me achar:
+## Projetos que fiz parte: 🕹
+
+- Jogo feito no Bitsy: [One Last Wish](https://rafa-cappetta.itch.io/one-last-wish)
+
+- Projeto 1: [FootLink](https://github.com/AnzinFelipe/FootLink)
+
+- Projeto de FP: [WOD Tracker](https://github.com/kururin-DOT/Crossfit)
+
+## Onde me achar: 🌎
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianfelipecosta/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anzin.webp/)
-
-<!--
-**AnzinFelipe/AnzinFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
