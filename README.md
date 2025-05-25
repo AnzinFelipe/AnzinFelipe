@@ -1,4 +1,4 @@
-<h1 align = "center">✨ <i>Welcome</i> ✨</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SST+Paneuropean+CondensedRegular&weight=500&size=35&duration=4000&pause=200&color=8FEEF7&center=true&vCenter=true&width=1000&height=100&lines=Beginning+scan.;Scanning+Bridges+ID.;Verifying+ID.+Clear.;%E2%9C%A8+Welcome+%E2%9C%A8+Sam+Porter+Bridges.)](https://git.io/typing-svg)
 
 ### Um pouco sobre mim! 💫
 
