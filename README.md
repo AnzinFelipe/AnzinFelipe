@@ -22,7 +22,7 @@ Atualmente no 1º período de Ciência da Computação na **CESAR School**
 
 ### No que eu tenho interesse? 🎮
 
-Tenho interesses nas áreas de desenvolvimento de games e de softwares
+Tenho interesses nas áreas de design e desenvolvimento de games e desenvolvimento de softwares
 
 ---
 
