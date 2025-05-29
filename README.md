@@ -4,7 +4,7 @@
 
 Meu nome é Ian Felipe, tenho 18 anos, tenho paixão por games e curto desenhar 🎨
 
-Atualmente no 1º período de Ciência da Computação na **Cesar School**
+Atualmente no 1º período de Ciência da Computação na **CESAR School**
 
 ---
 
@@ -22,7 +22,7 @@ Atualmente no 1º período de Ciência da Computação na **Cesar School**
 
 ### No que eu tenho interesse? 🎮
 
-Tenho interesses nas áreas de desenvolvimento de games, de softwares e também em front-end
+Tenho interesses nas áreas de desenvolvimento de games e de softwares
 
 ---
 
